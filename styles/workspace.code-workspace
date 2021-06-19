@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\js-dom"
+		},
+		{
+			"path": "..\\..\\айжан\\J-S\\some_js"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\js-"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "some-dom"
+	}
+}
